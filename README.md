@@ -1,14 +1,14 @@
 # Alurabook 📚
 
-Bem-vindo ao **Alurabook**!  
-Este projeto é uma aplicação Front-End desenvolvida durante estudos de HTML, CSS e JavaScript, inspirada em uma livraria digital moderna.
+Bem-vindo ao **Alurabook**!
+
+Este projeto é uma aplicação Front-End desenvolvida com HTML, CSS e JavaScript, inspirada em uma livraria digital moderna. O objetivo principal é praticar e demonstrar conhecimentos em desenvolvimento web, com foco em boas práticas de semântica, responsividade e organização de código.
 
 ---
 
 ## ✨ Sobre o Projeto
 
-O **Alurabook** simula uma livraria online, onde os usuários podem visualizar livros, navegar por categorias, acessar promoções e experimentar um layout responsivo e agradável.  
-O objetivo é praticar e demonstrar conhecimentos em desenvolvimento web, focando em boas práticas de semântica, responsividade e organização de código.
+O **Alurabook** simula uma livraria online, onde você pode visualizar livros, navegar por categorias, acessar promoções e experimentar um layout responsivo e agradável.
 
 ---
 
@@ -19,7 +19,6 @@ O objetivo é praticar e demonstrar conhecimentos em desenvolvimento web, focand
 - 🏷️ Exibição de promoções e destaques
 - 📱 Layout responsivo (desktop, tablet e mobile)
 - ⭐ Componentes reutilizáveis
-- 🌙 Modo escuro (caso implementado)
 
 ---
 
@@ -31,17 +30,20 @@ O objetivo é praticar e demonstrar conhecimentos em desenvolvimento web, focand
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript">
 </p>
 
-- HTML5
-- CSS3 (Flexbox, Grid, Responsividade)
-- JavaScript (interatividade e manipulação do DOM)
+- **HTML5**
+- **CSS3** (Flexbox, Grid, Responsividade)
+- **JavaScript** (interatividade e manipulação do DOM)
 
 ---
 
 ## 📷 Demonstração
 
 <div align="center">
-  <!-- Substitua pelo screenshot do seu projeto -->
-  <img src="https://user-images.githubusercontent.com/939006279/placeholder-demo.png" alt="Demonstração do Alurabook" width="80%">
+
+🔗 [Acesse o projeto online (Vercel)](https://alurabook-dun-beta.vercel.app)
+
+![Demonstração do Alurabook](https://raw.githubusercontent.com/C-amorim/Alurabook/main/assets/demo.png)
+
 </div>
 
 ---
