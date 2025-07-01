@@ -42,8 +42,6 @@ O **Alurabook** simula uma livraria online, onde você pode visualizar livros, n
 
 🔗 [Acesse o projeto online (Vercel)](https://alurabook-dun-beta.vercel.app)
 
-![Demonstração do Alurabook](https://raw.githubusercontent.com/C-amorim/Alurabook/main/assets/demo.png)
-
 </div>
 
 ---
